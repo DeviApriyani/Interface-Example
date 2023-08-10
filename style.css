@@ -1,0 +1,33 @@
+.textH1{
+    color: wheat;
+    background-color: black;
+    text-align: center;
+}
+.textH5{
+    color: wheat;
+    background-color: black;
+    text-align: center;
+}
+.imgFoto{
+    text-align: center;
+}
+
+.imgClass{
+    border-radius: 50%;
+}
+
+.headDiv{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+@media (min-width: 1024px) {
+    .headDiv{
+        padding-left: 48px;
+        padding-right: 48px;
+    }
+ }
+
+ .footerClass{
+    text-align: center;
+ }
